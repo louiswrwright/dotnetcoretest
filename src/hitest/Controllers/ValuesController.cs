@@ -20,7 +20,7 @@ namespace hitest.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value67";
+            return "value68";
         }
 
         // POST api/values
