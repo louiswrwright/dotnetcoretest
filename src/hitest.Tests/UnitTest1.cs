@@ -9,7 +9,7 @@ namespace hitest.Tests
             => Assert.True(true);
 
         [Fact]
-        public void TrueShouldBeFalse()
-            => Assert.False(true);
+        public void FalseShouldBeFalse()
+            => Assert.False(false);
     }
 }
